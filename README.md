@@ -1,4 +1,4 @@
-Hi there, I'm Jack Taylor! I am a software engineer based in the UK, interested in all things AI and HPC. This year, I happily joined the Machine Learning Frameworks group at [AMD](https://www.amd.com/en).
+Hi there, I'm Jack Taylor! I am a software engineer based in the UK, interested in all things AI and HPC. This year, I happily joined the Deep Learning Frameworks group at [AMD](https://www.amd.com/en).
 
 ### 🏫 Publications    ·    [Google Scholar](https://scholar.google.com/citations?user=BRmdBPEAAAAJ&hl=en)
 --------------------------------------------------
