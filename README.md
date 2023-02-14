@@ -7,3 +7,7 @@ Hi there, I'm Jack Taylor! I am a software engineer based in the UK, interested 
 ##### 2021-04: [How surrogate models can enable integration of experiments, big data, modelling and simulation](https://epubs.stfc.ac.uk/work/48837027) **Jack Taylor**, Jony Castagna, Luke Mason, Vassil Alexandrov.
 ##### 2021-04: [A comparison of frameworks for hybrid programming with Graphics Processing Units](https://epubs.stfc.ac.uk/work/49338008) **Jack Taylor**, Sue Thorne
 ##### 2020-01: [A fast parallel particle filter for shared memory systems](https://ieeexplore.ieee.org/abstract/document/9158397) Alessandro Varsi, **Jack Taylor**, Lykourgos Kekempanos, Edward Pyzer Knapp, Simon Maskell.
+
+### 🔭 Patents
+--------------------------------------------------
+##### 2022-04 Trainable reconstruction of high-quality multi-band/hyperspectral electron microscopy images from auxiliary signal sources - GB ; 2211086.0 - **Jack Taylor**, Nigel Browning, Jack Wells, Daniel Nicholls, Alex Robinson
