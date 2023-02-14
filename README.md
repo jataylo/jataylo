@@ -10,4 +10,4 @@ Hi there, I'm Jack Taylor! I am a software engineer based in the UK, interested 
 
 ### 🔭 Patents
 --------------------------------------------------
-##### 2022-04 Trainable reconstruction of high-quality multi-band/hyperspectral electron microscopy images from auxiliary signal sources - GB ; 2211085.2 - **Jack Taylor**, Nigel Browning, Jack Wells, Daniel Nicholls, Alex Robinson
+##### 2022-07 Trainable reconstruction of high-quality multi-band/hyperspectral electron microscopy images from auxiliary signal sources - GB ; 2211085.2 - **Jack Taylor**, Nigel Browning, Jack Wells, Daniel Nicholls, Alex Robinson
